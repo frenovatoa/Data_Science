@@ -11,8 +11,8 @@ You can find the **exercises** for the book [A Smarter Way to Learn Python](http
 
 ### 🧮 2. NumPy
 
-You can find the [Notes](A_Smarter_Way_to_Learn_Python/NumPy/Notas), [Exercises](A_Smarter_Way_to_Learn_Python/NumPy/Ejercicios) and [Tests](A_Smarter_Way_to_Learn_Python/NumPy/Examenes) for the NumPy library.
+You can find the [Notes](NumPy/Notas), [Exercises](NumPy/Ejercicios) and [Tests](NumPy/Examenes) for the NumPy library.
 
 ### 📊 3. Pandas
 
-You can find the [Notes](A_Smarter_Way_to_Learn_Python/Pandas/Notas), [Exercises](A_Smarter_Way_to_Learn_Python/Pandas/Ejercicios) and [Tests](A_Smarter_Way_to_Learn_Python/Pandas/Examenes) for the Pandas library.
+You can find the [Notes](Pandas/Notas), [Exercises](Pandas/Ejercicios) and [Tests](Pandas/Examenes) for the Pandas library.
